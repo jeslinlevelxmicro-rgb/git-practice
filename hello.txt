@@ -1,2 +1,7 @@
 Hello, this is my first Git project.
+<<<<<<< Updated upstream
 How are you??
+=======
+I am learning Git for the LX INDIA project.
+I will manage a team of six developers.
+>>>>>>> Stashed changes
